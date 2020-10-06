@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm raykle</h1>
 <p align="center"> <img src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/cn.svg" alt="raykle" width=40 /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raykle&label=PROFILE+VIEWS&style=flat-square" alt="raykle" /> </p>
+
 - 📝 I regulary write articles on [https://raykle.github.io/](https://raykle.github.io/)
 
 - 📫 How to reach me **raykle.up@gmail.com**
@@ -29,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=raykle&show_icons=true&theme=gotham" alt="raykle" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raykle" alt="raykle" /> </p>
+<!-- <p align="left"> <img src="https://profile-counter.glitch.me/raykle/count.svg" alt="raykle" height=20 /> </p> -->
 
 <!--
 **raykle/raykle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
