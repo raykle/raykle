@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=raykle&show_icons=true&theme=gotham" alt="raykle" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raykle&hide=css,html&theme=tokyonight">
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raykle&show_icons=true&theme=gotham" alt="raykle" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raykle&hide=css,html&theme=tokyonight">
+</p>
 
 <!--
 **raykle/raykle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
