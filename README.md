@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/raykle" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="raykle" height="30" width="40" /></a>
 <a href="https://medium.com/@raykle" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@raykle" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/raykle" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="raykle" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2349122/raykle" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="raykle" height="30" width="40" /></a>
 </p>
 &nbsp;
 
