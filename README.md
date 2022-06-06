@@ -24,11 +24,13 @@
 </p>
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raykle&show_icons=true&locale=en&layout=compact" alt="raykle" /></p>
+<p align = "left">
+  <a href="https://github.com/raykle" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raykle&show_icons=true&locale=en&layout=compact" alt="raykle" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raykle&show_icons=true&locale=en" alt="raykle" /></p>
+  <a href="https://github.com/raykle" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raykle&show_icons=true&locale=en" alt="raykle" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raykle&" alt="raykle" /></p>
+  <a href="https://github.com/raykle" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raykle&" alt="raykle" /></a>
+</p>
 
 
 
