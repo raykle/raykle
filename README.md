@@ -25,7 +25,7 @@
 &nbsp;
 
 <p align = "left">
-  <a href="https://github.com/raykle" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raykle&show_icons=true&locale=en&layout=compact" alt="raykle" /></a>
+  <a href="https://github.com/raykle" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raykle&show_icons=true&locale=en&layout=compact&exclude_repo=raykle.github.io,jekyll_demo" alt="raykle" /></a>
 
   <a href="https://github.com/raykle" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raykle&show_icons=true&locale=en" alt="raykle" /></a>
 
